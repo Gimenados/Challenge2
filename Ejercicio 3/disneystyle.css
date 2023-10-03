@@ -4,15 +4,16 @@
 
 h1 {
     color: #CA4DBD;
-    font-size: 60px;
-    font-weight: 1;
-    letter-spacing: 7px;
+    font-size: 40px;
+    font-weight: 300;
+    letter-spacing: 8px;
     margin-top: 15px;
     margin-bottom: 15px;
 }
 
 h2 {
     color: #CA4DBD;
+    font-size: 20px;
 }
 
 p {
@@ -32,7 +33,6 @@ img {
     margin-right: 8px;
 }
 
-.img-finish {
-    width: 100%; 
+.img-finish { 
     height: 100%;
 }
